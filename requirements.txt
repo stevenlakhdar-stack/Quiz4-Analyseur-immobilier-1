@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 streamlit>=1.43
 pandas>=2.2
 numpy>=1.26
 matplotlib>=3.8
-openai>=1.75
-=======
-streamlit>=1.44
-pandas>=2.2
-numpy>=2.0
-matplotlib>=3.8
-requests>=2.32
->>>>>>> ad6f6a97109333a35bca48bd1c10ba4d8a41ee90
+google-genai>=0.1.0
+python-dotenv>=1.0.0
